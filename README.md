@@ -1,6 +1,6 @@
-# Coders Repair CRM
+# CarRepairShop CRM
 
-Coders Repair - Java CRM  web applicaton for a car repair shop
+CarRepairShop - Java CRM  web applicaton for a car repair shop
 
 
 ## Built With
